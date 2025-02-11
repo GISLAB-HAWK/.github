@@ -1,2 +1,2 @@
-# .github
-GIS-Lab der HAWK
+# GIS-Lab der HAWK (Göttingen)
+
