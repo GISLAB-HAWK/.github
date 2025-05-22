@@ -1,4 +1,4 @@
-## Hi there 👋
+## GITHub of the Forest Monitoring Lab @ HAWK Göttingen
 
 <!--
 
